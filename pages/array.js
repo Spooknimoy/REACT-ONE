@@ -1,5 +1,6 @@
 import React from 'react'
-import Pagina from '../components/Pagina'
+import Pagina from '../Component/Pagina'
+
 
 const array = () => {
 

@@ -1,9 +1,8 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import React from 'react'
-import { Container } from 'react-bootstrap'
-import Cabecalho from '../components/Cabecalho'
-import Rodape from '../components/Rodape'
-import Pagina from '../components/Pagina';
+
+import Pagina from '../Component/Pagina';
+
 
 const pagina2 = () => {
   return (
