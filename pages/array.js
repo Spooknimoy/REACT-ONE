@@ -18,7 +18,7 @@ const array = () => {
 
         <ol>
           {carros.map(item => (
-            <li>{item}</li>
+            <li><p>{item}</p></li>
           ))}
         </ol>
 
